@@ -65,3 +65,11 @@ src/
 
 ## 📄 Licencia
 Proyecto académico - Evaluación Parcial 2
+
+## 🗃️ Base de Datos
+- **Motor:** Oracle Database 19c
+- **Scripts:** PL/SQL con procedimientos almacenados
+- **Ubicación:** `/database/scripts/`
+  - `CMS_AUDITORES_Y_CONSULTORES_ENTREGA2~2.sql` - Esquema completo
+  - `Ingreso_A_Tabla_Datos_de_Consultores.sql` - Datos de consultores
+  - `RUN Consultores.sql` - Consultas ejecutivas
