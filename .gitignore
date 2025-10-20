@@ -1,0 +1,22 @@
+# NetBeans
+/nbproject/private/
+/nbproject/project.properties
+/nbproject/project.xml
+/build/
+/dist/
+/.nb-gradle/
+
+# Archivos compilados
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# No subir la wallet de Oracle
+/oracle_wallet/
+/Wallet_*/
