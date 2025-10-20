@@ -1,0 +1,11 @@
+-- LISTA DE RUNs PARA PROBAR
+-- Consultor Oracle: 23567890-7 → $485,000
+-- Consultor SAP: 21345678-5 → $440,000  
+-- Auditor Externo: 20458761-2 → $325,000
+-- Auditor Financiero: 19876543-4 → $310,000
+-- Especialista Cybersecurity: 15623487-3 → $380,000
+-- Auditor Interno: 11111111-1 → $285,000
+-- Contador: 24678901-8 → $275,000
+-- Auditor de Sistemas: 22456789-6 → $270,000
+-- Consultor TI: 18765432-1 → $192,000
+-- Tester: 25789012-9 → $100
